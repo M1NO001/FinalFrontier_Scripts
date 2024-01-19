@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61218efaaa2454179b9977f52763befd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buffSpawnParentObject: {instanceID: 0}
+  - damageIncreasedBullet: {fileID: 4227951246460496097, guid: fd1b21842aa344b3eaede7961782cdc6,
+      type: 3}
+  - defaultBullet: {fileID: 1859234679933314, guid: 7b4a2e6deafd841978249863be8ff18b,
+      type: 3}
+  - buffEffect: {fileID: 1304648810841742278, guid: c931d9d252db54699a5703af389e2eb6,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
